@@ -1,0 +1,312 @@
+{
+  "communities": {
+    "0": [
+      "eslint_config",
+      "eslint_config_eslintconfig",
+      "package",
+      "package_allowscripts",
+      "package_allowscripts_better_sqlite3_13_0_3",
+      "package_devdependencies",
+      "package_devdependencies_eslint",
+      "package_devdependencies_eslint_config_next",
+      "package_devdependencies_playwright_test",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_tailwindcss_turbopack",
+      "package_devdependencies_types_better_sqlite3",
+      "package_devdependencies_types_node",
+      "package_devdependencies_types_react",
+      "package_devdependencies_types_react_dom",
+      "package_devdependencies_typescript",
+      "package_name",
+      "package_private",
+      "package_version",
+      "ref_eslint",
+      "ref_eslint_config_next",
+      "ref_playwright_test",
+      "ref_tailwindcss",
+      "ref_tailwindcss_turbopack",
+      "ref_types_better_sqlite3",
+      "ref_types_node",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_typescript"
+    ],
+    "1": [
+      "tsconfig",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_allowjs",
+      "tsconfig_compileroptions_esmoduleinterop",
+      "tsconfig_compileroptions_incremental",
+      "tsconfig_compileroptions_isolatedmodules",
+      "tsconfig_compileroptions_jsx",
+      "tsconfig_compileroptions_lib",
+      "tsconfig_compileroptions_module",
+      "tsconfig_compileroptions_moduleresolution",
+      "tsconfig_compileroptions_noemit",
+      "tsconfig_compileroptions_paths",
+      "tsconfig_compileroptions_plugins",
+      "tsconfig_compileroptions_resolvejsonmodule",
+      "tsconfig_compileroptions_skiplibcheck",
+      "tsconfig_compileroptions_strict",
+      "tsconfig_compileroptions_target",
+      "tsconfig_exclude",
+      "tsconfig_include"
+    ],
+    "2": [
+      "next_config",
+      "next_config_nextconfig",
+      "ref_next",
+      "src_app_app_layout",
+      "src_app_app_layout_applayout",
+      "src_app_globals",
+      "src_app_layout",
+      "src_app_layout_geistmono",
+      "src_app_layout_geistsans",
+      "src_app_layout_metadata",
+      "src_app_layout_rootlayout",
+      "src_components_sidebar",
+      "src_components_sidebar_links",
+      "src_components_sidebar_sidebar"
+    ],
+    "3": [
+      "package_dependencies",
+      "package_dependencies_better_sqlite3",
+      "package_dependencies_lucide_react",
+      "package_dependencies_next",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_dependencies_recharts",
+      "package_dependencies_zod",
+      "ref_better_sqlite3",
+      "ref_lucide_react",
+      "ref_react",
+      "ref_react_dom",
+      "ref_recharts",
+      "ref_zod"
+    ],
+    "4": [
+      "src_lib_format",
+      "src_lib_format_daysbetween",
+      "src_lib_format_formatindiannumber",
+      "src_lib_format_formatinr",
+      "src_lib_format_formatinrcompact",
+      "src_lib_format_initials",
+      "src_lib_format_isoverdue",
+      "src_lib_format_monthiso",
+      "src_lib_format_parsenumber",
+      "src_lib_format_relativeday",
+      "src_lib_format_statusbadge",
+      "src_lib_format_statuscolor",
+      "src_lib_format_todayiso"
+    ],
+    "5": [
+      "src_app_app_equipment_page",
+      "src_app_app_equipment_page_equipmentpage",
+      "src_app_app_equipment_page_equipmentpage_add",
+      "src_app_app_invoices_page",
+      "src_app_app_invoices_page_invoicespage",
+      "src_app_app_invoices_page_invoicespage_add",
+      "src_app_app_projects_page",
+      "src_app_app_projects_page_projectspage",
+      "src_app_app_projects_page_projectspage_add",
+      "src_lib_db_getdb"
+    ],
+    "6": [
+      "ref_fs",
+      "ref_path",
+      "ref_url",
+      "src_lib_db",
+      "src_lib_db_closedb",
+      "src_lib_db_runmigrations"
+    ],
+    "7": [
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_dev",
+      "package_scripts_lint",
+      "package_scripts_start"
+    ],
+    "8": [
+      "src_app_app_clients_page",
+      "src_app_app_clients_page_clientspage",
+      "src_app_app_clients_page_clientspage_add"
+    ],
+    "9": [
+      "src_app_app_expenses_page",
+      "src_app_app_expenses_page_expensespage",
+      "src_app_app_expenses_page_expensespage_add"
+    ],
+    "10": [
+      "src_app_app_materials_page",
+      "src_app_app_materials_page_materialspage",
+      "src_app_app_materials_page_materialspage_add"
+    ],
+    "11": [
+      "src_app_app_page",
+      "src_app_app_page_dashboard",
+      "src_app_app_page_recentprojects"
+    ],
+    "12": [
+      "src_app_app_vendors_page",
+      "src_app_app_vendors_page_vendorspage",
+      "src_app_app_vendors_page_vendorspage_add"
+    ],
+    "13": [
+      "src_app_app_workers_page",
+      "src_app_app_workers_page_workerspage",
+      "src_app_app_workers_page_workerspage_add"
+    ]
+  },
+  "cohesion": {
+    "0": 0.0960591133004926,
+    "1": 0.10526315789473684,
+    "2": 0.17582417582417584,
+    "3": 0.14285714285714285,
+    "4": 0.15384615384615385,
+    "5": 0.3333333333333333,
+    "6": 0.3333333333333333,
+    "7": 0.4,
+    "8": 0.6666666666666666,
+    "9": 0.6666666666666666,
+    "10": 0.6666666666666666,
+    "11": 1.0,
+    "12": 0.6666666666666666,
+    "13": 0.6666666666666666
+  },
+  "gods": [
+    {
+      "id": "src_lib_db_getdb",
+      "label": "getDb()",
+      "degree": 29
+    },
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 16
+    },
+    {
+      "id": "ref_next",
+      "label": "next",
+      "degree": 14
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "degree": 5
+    },
+    {
+      "id": "src_app_app_materials_page_materialspage",
+      "label": "MaterialsPage()",
+      "degree": 3
+    },
+    {
+      "id": "src_app_app_page_dashboard",
+      "label": "Dashboard()",
+      "degree": 3
+    },
+    {
+      "id": "src_app_app_page_recentprojects",
+      "label": "RecentProjects()",
+      "degree": 3
+    },
+    {
+      "id": "src_app_app_vendors_page_vendorspage",
+      "label": "VendorsPage()",
+      "degree": 3
+    },
+    {
+      "id": "src_app_app_workers_page_workerspage",
+      "label": "WorkersPage()",
+      "degree": 3
+    },
+    {
+      "id": "src_components_sidebar_sidebar",
+      "label": "Sidebar()",
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "add()",
+      "target": "getDb()",
+      "source_files": [
+        "src/app/(app)/materials/page.tsx",
+        "src/lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities; peripheral node `add()` unexpectedly reaches hub `getDb()`"
+    },
+    {
+      "source": "add()",
+      "target": "getDb()",
+      "source_files": [
+        "src/app/(app)/vendors/page.tsx",
+        "src/lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities; peripheral node `add()` unexpectedly reaches hub `getDb()`"
+    },
+    {
+      "source": "add()",
+      "target": "getDb()",
+      "source_files": [
+        "src/app/(app)/workers/page.tsx",
+        "src/lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities; peripheral node `add()` unexpectedly reaches hub `getDb()`"
+    },
+    {
+      "source": "add()",
+      "target": "getDb()",
+      "source_files": [
+        "src/app/(app)/clients/page.tsx",
+        "src/lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities; peripheral node `add()` unexpectedly reaches hub `getDb()`"
+    },
+    {
+      "source": "add()",
+      "target": "getDb()",
+      "source_files": [
+        "src/app/(app)/expenses/page.tsx",
+        "src/lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities; peripheral node `add()` unexpectedly reaches hub `getDb()`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `next` connect `next` to `package.json`, `dependencies`, `getDb`, `clients/page.tsx`, `expenses/page.tsx`, `materials/page.tsx`, `vendors/page.tsx`, `workers/page.tsx`?",
+      "why": "High betweenness centrality (0.283) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `package.json` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.0960591133004926 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `getDb()` connect `getDb` to `db.ts`, `clients/page.tsx`, `expenses/page.tsx`, `materials/page.tsx`, `(app)/page.tsx`, `vendors/page.tsx`, `workers/page.tsx`?",
+      "why": "High betweenness centrality (0.122) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `compilerOptions` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `dependencies` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
